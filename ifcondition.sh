@@ -10,3 +10,7 @@ then
 else
 	echo " b is greter than a "
 fi 
+
+
+expr $a + $b
+expr $b / $a
